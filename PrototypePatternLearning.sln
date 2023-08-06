@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePatternLearning", "PrototypePatternLearning\PrototypePatternLearning.csproj", "{9BD5D3AD-4367-40B7-9A5C-B2490FE2A45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD5D3AD-4367-40B7-9A5C-B2490FE2A45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD5D3AD-4367-40B7-9A5C-B2490FE2A45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD5D3AD-4367-40B7-9A5C-B2490FE2A45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD5D3AD-4367-40B7-9A5C-B2490FE2A45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9D3595-6C5C-4EDB-B7E0-882F9CA6CAF1}
+	EndGlobalSection
+EndGlobal
