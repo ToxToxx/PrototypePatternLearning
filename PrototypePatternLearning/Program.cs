@@ -24,8 +24,10 @@ namespace PrototypePatternLearning
 
             Rectangle figure2 = new Rectangle(20, 40);
             Rectangle clonedFigure2 = figure2.DeepCopy() as Rectangle;
+            Console.WriteLine("Before");
             figure2.GetInfo();
             clonedFigure2.GetInfo();
+            Console.WriteLine("After");
             figure2.SetWidth(30);
             figure2.GetInfo();
             clonedFigure2.GetInfo();
